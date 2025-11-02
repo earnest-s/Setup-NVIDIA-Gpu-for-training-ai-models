@@ -1,6 +1,6 @@
-# 🚀 NVIDIA GPU Setup for Running AI Models (Windows + PyTorch + CUDA 13.0.1)
+# 🚀 NVIDIA GPU Setup for Training AI Models (Windows + PyTorch + CUDA 13.0.1)
 
-This guide explains how to **set up your NVIDIA GPU** on **Windows** for running **AI models** using **PyTorch** (via `pip`) with **CUDA 13.0.1** support.
+This guide explains how to **set up your NVIDIA GPU** on **Windows** for training **AI models** using **PyTorch** (via `pip`) with **CUDA 13.0.1** support.
 
 ---
 
